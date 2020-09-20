@@ -48,7 +48,9 @@ namespace The_greatest_RPG_in_human_history
             if (_enemy.IsDead())
             {
                 enemystatus = "enemy is dead";
+                playerstatus = "DOOD WINS, YOU'VE CONQUERED THE GREATED ENEMY IN RPG HISTORY!";
             }
+            
                
             Stats.Content = $"{playerstatus}\t\t\t{enemystatus}";
         }
