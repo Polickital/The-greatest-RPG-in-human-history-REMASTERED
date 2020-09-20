@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>The_greatest_RPG_in_human_history</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>The_greatest_RPG_in_human_history.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

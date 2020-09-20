@@ -1,0 +1,18 @@
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history_MarkupCompile.cache
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history_MarkupCompile.lref
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.exe
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.deps.json
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.runtimeconfig.json
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.runtimeconfig.dev.json
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.dll
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\bin\Debug\netcoreapp3.1\The greatest RPG in human history.pdb
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.g.resources
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.AssemblyInfoInputs.cache
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.AssemblyInfo.cs
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.csproj.CoreCompileInputs.cache
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.dll
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.pdb
+C:\Users\Dood\source\repos\The greatest RPG in human history\The greatest RPG in human history\obj\Debug\netcoreapp3.1\The greatest RPG in human history.genruntimeconfig.cache
